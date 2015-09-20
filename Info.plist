@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>7.1</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>2</integer>
+	</array>
+	<key>UIMainStoryboardFile</key>
+	<string>MainStoryboard</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.bite-consulting.PinballScoreEntry.iOS</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>bop_72</string>
+		<string>bop_76</string>
+		<string>bop_144</string>
+		<string>bop_152</string>
+		<string>bop_50</string>
+		<string>bop_100</string>
+		<string>bop_40</string>
+		<string>bop_80</string>
+		<string>bop_29</string>
+		<string>bop_58</string>
+	</array>
+	<key>CFBundleDisplayName</key>
+	<string>BOP Entry</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>61</string>
+</dict>
+</plist>
